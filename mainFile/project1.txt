@@ -1,5 +1,0 @@
-new project started
-Update 2  to Master
-
-Merge issue resolved
-Continuing as master

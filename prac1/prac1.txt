@@ -1,4 +1,0 @@
-first entry from master
-second entry from master
-Entry after merge issue
-
